@@ -1,0 +1,16 @@
+{
+  "name": "ambilight",
+  "version": "1.0.0",
+  "description": "Ambilight Clone For magic-home wifi led devices",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "net-request-response": "0.0.14",
+    "nssocket": "^0.6.0"
+  }
+}
